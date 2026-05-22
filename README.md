@@ -2,7 +2,7 @@
 
 Welcome to the **JS Food Ordering Practice Repo**!  
 This project helps you improve your JavaScript skills — starting with simple challenges and then moving on to a real-world ordering system project.
-
+ 
 ---
 
 ## 🧩 Part 1: Simple JS Challenges (1–4)
